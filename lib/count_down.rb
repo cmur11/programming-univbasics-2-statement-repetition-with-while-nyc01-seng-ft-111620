@@ -7,7 +7,7 @@ count = 12
 #   count /=2
 # end  
 
-magic_exit_number = 5
+magic_exit_number = 7
 count = 0
 
 while count < 10 && count != magic_exit_number do
