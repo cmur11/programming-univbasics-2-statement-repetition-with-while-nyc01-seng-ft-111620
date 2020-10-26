@@ -10,7 +10,7 @@ count = 12
 magic_exit_number = 5
 count = 0
 
-while count < 10 && count == magic_exit_number do
+while count < 10 && count != magic_exit_number do
   puts "I am the #{count}, I love to count!"
 
   count += 1
