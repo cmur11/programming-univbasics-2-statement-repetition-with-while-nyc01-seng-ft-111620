@@ -21,7 +21,7 @@ count = 10
 while count >=1 do
   puts count
   
-# else 
+elsif count = 0 
 #   puts "Happy New Year!"
   
   count -=1
