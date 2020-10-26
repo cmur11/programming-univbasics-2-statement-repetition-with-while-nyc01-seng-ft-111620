@@ -21,8 +21,8 @@ count = 10
 while count <=1 do
   puts count
   
-else 
-  puts "Happy New Year!"
+# else 
+#   puts "Happy New Year!"
   
   count -=1
 end
